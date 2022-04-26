@@ -14,8 +14,8 @@ public class exercise5 {
 
 
         System.out.println(names);
-        System.out.println("--------------");
-        System.out.println(" complete the missing number ");
+        System.out.println("-----------------------------");
+        System.out.println("type the missing number below!");
 
 
         Scanner obj = new Scanner(System.in);
